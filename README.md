@@ -19,7 +19,7 @@ env\scripts\activate
 #run: 'set-executionpolicy remotesigned' and choose as Y 
 
 #Now again run: env\scripts\activate
-#Boom now u can install in VM what ever you want
+#Boom now you can install what ever you want in VM 
 #To exit run:'deactivate'
 
 pip install -r requirements.txt
