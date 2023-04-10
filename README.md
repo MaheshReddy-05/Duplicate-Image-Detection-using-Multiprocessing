@@ -13,8 +13,8 @@ pip install virtualenv
 virtualenv env
 #redirect to that vm
 env\scripts\activate
-#If get error then you need to open powershell and run as admin and run: `set-executionpolicy remotesigned` and choose as Y )
-Now again run: `env\scripts\activate`
+#If get error then you need to open powershell and run as admin and run: set-executionpolicy remotesigned and choose as Y )
+Now again run: env\scripts\activate
 #boom now u can install in VM what ever you want
 #to exit run:'deactivate'
 
